@@ -24,15 +24,12 @@
 
 #访客网络
 
-#adg去广告
 
 #openclash
 
 #jd签到
 
-#uugame加速
-
-#多拨
+#多拨&负载均衡
 
 ##########如有不想要的插件，需要自定义请移至我的这个 https://github.com/jingleijack/AX6-AX3600_chajian_quan_peizhi_banben   在.config文件里找到相应的插件名称删除即可#############
 
